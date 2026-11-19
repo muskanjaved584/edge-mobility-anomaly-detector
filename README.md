@@ -8,6 +8,7 @@ https://drive.google.com/file/d/1n_x6W9yNImybK-sk5zNwzdtKpkFdoPH7/view?usp=drive
 - **Spatial & Velocity Anomaly Detection:**
   - **Jaywalking / Zone Intrusion:** Flags pedestrians entering active traffic lane polygons using bottom-center ground projection.
   - **Sudden Vehicle Stops:** Uses sliding-window pixel velocity smoothing to detect abrupt deceleration in active lanes without single-frame jitter false positives.
+**[▶ Watch Full 4K Traffic & Pedestrian Anomaly Detection Demo](https://google.com)*]
 
 ## Repository Structure
 - `src/mobility_anomaly_detector.py` — Standalone inference, tracking, and anomaly alert pipeline.
