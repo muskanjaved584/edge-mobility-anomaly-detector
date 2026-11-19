@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1n_x6W9yNImybK-sk5zNwzdtKpkFdoPH7/view?usp=drive
 ```bash
 pip install ultralytics opencv-python numpy onnxruntime-gpu
 python src/mobility_anomaly_detector
-
+```
 # Edge-Optimized Real-Time Traffic & Pedestrian Anomaly Detector
 
 A lightweight computer vision pipeline designed for **Intelligent Transportation Systems (ITS)** and edge deployment. Built using **YOLO11n**, **ONNX Runtime (FP16)**, and **ByteTrack**, this system tracks multi-lane vehicles and pedestrians in real time to flag high-risk road anomalies.
