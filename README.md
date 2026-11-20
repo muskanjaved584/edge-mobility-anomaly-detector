@@ -4,7 +4,7 @@
 A lightweight computer vision pipeline designed for **Intelligent Transportation Systems (ITS)** and edge deployment. Built using **YOLO11n**, **ONNX Runtime (FP16)**, and **ByteTrack**, this system tracks multi-lane vehicles and pedestrians in real time to flag high-risk road anomalies.
 
 ## Live Demo & Technical Walkthrough
-> **[▶ Watch Full 4K Traffic & Pedestrian Anomaly Detection Demo](https://google.com)**
+• > **[▶ Watch Full 4K Traffic & Pedestrian Anomaly Detection Demo](https://google drive.com...)
 
 | Video Timeline | What You See in the Video | AI Technique & Implementation |
 | :--- | :--- | :--- |
